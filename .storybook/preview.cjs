@@ -1,3 +1,4 @@
+import '../src/styles/global.css'
 import { themes } from '@storybook/theming'
 
 export const parameters = {
